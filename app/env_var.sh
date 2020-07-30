@@ -1,0 +1,3 @@
+location=$(ls)
+echo $location
+
